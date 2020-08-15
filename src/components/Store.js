@@ -8,7 +8,7 @@ Vue.use(Vuex);
 const store = new Vuex.Store({
   state: {
     // Defaults
-    timerDefault: 300,
+    timerDefault: 60,
     countdownDefault: 4,
     gameInitText: 'Preparado?',
 
