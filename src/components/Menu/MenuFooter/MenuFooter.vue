@@ -1,6 +1,6 @@
 <template>
   <div class="menu-footer">
-    Ein Spiel von <a href="https://kovah.de/">Kovah.de</a> | <a href="https://github.com/Kovah/Taboo">Github</a>
+    Juego adaptado por <a href="http://elc.github.io">Ezequiel Castaño</a> | Desarrollado originalmente por <a href="https://kovah.de/">Kovah.de</a>
   </div>
 </template>
 

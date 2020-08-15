@@ -1,0 +1,553 @@
+{
+  "Jonás": [
+    "Pez",
+    "Tormenta",
+    "Nínive"
+  ],
+
+
+  "David": [
+    "Rey",
+    "Israel",
+    "Corazón"
+  ],
+
+  "Pablo": [
+    "Perseguir",
+    "Carta",
+    "Apostol"
+  ],
+
+
+  "Esteban": [
+    "Mártir",
+    "Hechos",
+    "Joven"
+  ],
+
+
+  "Juan": [
+    "Discipulo",
+    "Amar",
+    "Apocalipsis"
+  ],
+
+
+  "José": [
+    "Sueños",
+    "Hermanos",
+    "Jacob"
+  ],
+
+  "Noé": [
+    "Arca",
+    "Diluvio",
+    "Animales"
+  ],
+
+  "Isaac": [
+    "Sacrificio",
+    "Abraham",
+    "Ismael"
+  ],
+
+  "Abraham": [
+    "Isaac",
+    "Sacrificio",
+    "Promesa"
+  ],
+
+  "Salomón": [
+    "Rey",
+    "Proverbios",
+    "Sabiduría"
+  ],
+
+  "Mateo": [
+    "Leví",
+    "Discipulo",
+    "Publicano"
+  ],
+
+  "Judas": [
+    "Traidor",
+    "Apostol",
+    "Beso"
+  ],
+
+  "Daniel": [
+    "Leones",
+    "Preso",
+    "Horno"
+  ],
+
+  "Adan": [
+    "Eva",
+    "Barro",
+    "Pecado"
+  ],
+
+  "Jesús": [
+    "Cruz",
+    "Cristo",
+    "Resucitó"
+  ],
+
+  "Moisés": [
+    "Egipto",
+    "Mandar",
+    "Plagas"
+  ],
+
+
+
+  "Bartimeo": [
+    "Ciego",
+    "Mendigo",
+    "Jericó",
+    "Timeo"
+  ],
+
+  "Sansón": [
+    "Pelo",
+    "Fuerza",
+    "Dalila",
+    "Filisteos"
+  ],
+
+  "Gedeón": [
+    "Duda",
+    "Noche",
+    "Juez",
+    "Estrategia"
+  ],
+
+  "Rahab": [
+    "Ramera",
+    "Jericó",
+    "Josué",
+    "Señal"
+  ],
+
+  "Sara": [
+    "Abraham",
+    "Risa",
+    "Isaac",
+    "Sierva"
+  ],
+
+  "Eva": [
+    "Mujer",
+    "Adan",
+    "Caín",
+    "Serpiente"
+  ],
+
+  "Caifás": [
+    "Sacerdote",
+    "Sinagoga",
+    "Principal",
+    "Autoridad"
+  ],
+
+  "Herodes": [
+    "Gobernar",
+    "Bebes",
+    "Jesús",
+    "Magos"
+  ],
+
+  "María": [
+    "Jesús",
+    "Virgen",
+    "Elegida",
+    "José"
+  ],
+
+  "Job": [
+    "Diablo",
+    "Desgracia",
+    "Recto",
+    "Sarna"
+  ],
+
+  "Jacob": [
+    "Israel",
+    "Isaac",
+    "Esaú",
+    "Engaños"
+  ],
+
+  "Goliat": [
+    "Gigante",
+    "Filisteo",
+    "David",
+    "Espada"
+  ],
+
+  "Saúl": [
+    "Rey",
+    "David",
+    "Samuel",
+    "Guerrero"
+  ],
+
+  "Pedro": [
+    "Apostol",
+    "Simon",
+    "Amigo",
+    "Pescador"
+  ],
+
+  "Pilato": [
+    "Gobernar",
+    "Barrabás",
+    "Judea",
+    "Jesús"
+  ],
+
+  "Lot": [
+    "Canaán",
+    "Sobrino",
+    "Sal",
+    "Sodoma"
+  ],
+
+  "Ester": [
+    "Reina",
+    "Persia",
+    "Asuero",
+    "Mardoqueo"
+  ],
+
+  "Jeremías": [
+    "Profeta",
+    "Escogido",
+    "Llorar",
+    "Corazón"
+  ],
+
+  "Samuel": [
+    "Profeta",
+    "Ungir",
+    "Ana",
+    "Elí"
+  ],
+
+  "Caín": [
+    "Asesino",
+    "Abel",
+    "Hermano",
+    "Adan"
+  ],
+
+  "Felipe": [
+    "Etíope",
+    "Espiritu",
+    "Discipulo",
+    "Higuera"
+  ],
+
+  "Oseas": [
+    "Fidelidad",
+    "Profeta",
+    "Conocer",
+    "Israel"
+  ],
+
+  "Lázaro": [
+    "María",
+    "Marta",
+    "Betania",
+    "Resucitar"
+  ],
+
+  "Eliseo": [
+    "Naamán",
+    "Profeta",
+    "Elías",
+    "Aceite"
+  ],
+
+  "Zaqueo": [
+    "Enano",
+    "Arbol",
+    "Publicano",
+    "Jesús"
+  ],
+
+  "Josué": [
+    "Moises",
+    "Espia",
+    "Valiente",
+    "Israel"
+  ],
+
+  "Rut": [
+    "Noemi",
+    "Moabita",
+    "Nuera",
+    "Elimelec"
+  ],
+
+  "Zacarías": [
+    "Sacerdote",
+    "Profeta",
+    "Juan",
+    "Elisabet"
+  ],
+
+  "Elías": [
+    "Profeta",
+    "Carro",
+    "Hebreo",
+    "Jezabel"
+  ],
+
+  "Santiago": [
+    "Jacobo",
+    "Zebedeo",
+    "Justo",
+    "Martir"
+  ],
+
+  "Raquel": [
+    "Jacob",
+    "José",
+    "Lea ",
+    "Efrata"
+  ],
+
+  "Nicodemo": [
+    "Judio",
+    "Fariseo",
+    "Jesús",
+    "Discipulo"
+  ],
+
+
+  "Timoteo": [
+    "Pablo",
+    "Éfeso",
+    "Joven",
+    "Carta"
+  ],
+
+  "Aarón": [
+    "Sacerdote",
+    "Moisés",
+    "Egipto",
+    "Éxodo"
+  ],
+
+  "Abel": [
+    "Pastor",
+    "Caín",
+    "Adán",
+    "Hermano"
+  ],
+
+  "Enoc": [
+    "Muerte",
+    "Dios",
+    "Matusalén",
+    "Génesis"
+  ],
+
+  "Set": [
+    "Abel",
+    "Caín",
+    "Hermano",
+    "Adan"
+  ],
+
+  "Silas": [
+    "Pablo",
+    "Misionero",
+    "Prisión",
+    "Cantar"
+  ],
+
+  "Simeón": [
+    "Desprecio",
+    "Israel",
+    "Jacob",
+    "Hermano"
+  ],
+
+  "Onésimo": [
+    "Esclavo",
+    "Fiel",
+    "Pablo",
+    "Filemón"
+  ],
+
+  "Filemon": [
+    "Amigo",
+    "Colaborar",
+    "Pablo",
+    "Colosas"
+  ],
+
+  "Absalón": [
+    "David",
+    "Hijo",
+    "Derrocar",
+    "Rebeldía"
+  ],
+
+  "Potifar": [
+    "Capitán",
+    "Egipto",
+    "José",
+    "Faraón"
+  ],
+
+  "Tito": [
+    "Pablo",
+    "Pastor",
+    "Carta",
+    "Consuelo"
+  ],
+
+  "Bernabé": [
+    "Misionero",
+    "Pablo",
+    "Marcos",
+    "Viaje"
+  ],
+
+  "Nehemías": [
+    "Copero",
+    "Asureo",
+    "Murallas",
+    "Israel"
+  ],
+
+  "Naamán": [
+    "Siría",
+    "Lepra",
+    "Eliseo",
+    "Rio"
+  ],
+
+  "Barrabás": [
+    "Asesino",
+    "Juicio",
+    "Pilato",
+    "Jesús"
+  ],
+
+
+  "Samgar": [
+    "Juez",
+    "Matar",
+    "Filisteos",
+    "Aguijada"
+  ],
+
+  "Débora": [
+    "Gobernar",
+    "Jueza",
+    "Barac ",
+    "Israel"
+  ],
+
+  "Asaf": [
+    "Salmista",
+    "Cantar",
+    "David",
+    "Címbalos"
+  ],
+
+  "Manoa": [
+    "Esteril",
+    "Sansón",
+    "Padre",
+    "Dan"
+  ],
+
+  "Zebedeo": [
+    "Jacobo",
+    "Juan",
+    "Padre",
+    "Hermanos"
+  ],
+
+  "Gayo": [
+    "Pablo",
+    "Hospedar",
+    "Teatro",
+    "Amado"
+  ],
+
+  "Tadeo": [
+    "Discipulo",
+    "Jesús",
+    "Lebeo",
+    "Apostol"
+  ],
+
+  "Uzias": [
+    "Rey",
+    "Judá",
+    "Amasías",
+    "Hijo"
+  ],
+
+  "Aod": [
+    "Juez",
+    "Zurdo",
+    "Rey",
+    "Puñal"
+  ],
+
+  "Nimrod": [
+    "Poderoso",
+    "Cazador",
+    "Babel",
+    "Torre"
+  ],
+
+  "Enós": [
+    "Set",
+    "Adan",
+    "Nieto",
+    "Invocar"
+  ],
+
+  "Nun": [
+    "Josué",
+    "Padre",
+    "Israel",
+    "Espia"
+  ],
+
+  "Safat": [
+    "Elías",
+    "Padre",
+    "Israel",
+    "Adlai"
+  ],
+
+  "Habacuc": [
+    "Profeta",
+    "Fe",
+    "Justo",
+    "Vivir"
+  ],
+
+  "Safira": [
+    "Vender",
+    "Mentir",
+    "Engañar",
+    "Hechos"
+  ],
+
+  "Otoniel": [
+    "Juez",
+    "Israel",
+    "Cenaz",
+    "Liberar"
+  ]
+}

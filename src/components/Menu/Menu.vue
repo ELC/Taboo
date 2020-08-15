@@ -1,7 +1,7 @@
 <template>
 
   <div class="menu__wrapper">
-    <div id="menu" v-bind:style="{overflow: showGamePanel || showHighscorePanel ? 'hidden' : ''}">
+    <div id="menu" v-bind:style="{overflow: showGamePanel || showHighscorePanel ? 'hidden': ''}">
       <div class="container">
 
         <Logo/>

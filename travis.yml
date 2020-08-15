@@ -1,0 +1,28 @@
+os: linux
+
+language: node_js
+
+node_js: stable
+
+branches:
+  only:
+  - master
+
+cache:
+  directories:
+    - "node_modules"
+
+install: npm install
+
+script: npm run build
+
+deploy:
+  provider: pages
+  strategy: git
+  repo: elc/tabubiblico
+  target_branch: production
+  local_dir: dist
+  token: $GITHUB_TOKEN
+  edge: true
+  on:
+    branch: master

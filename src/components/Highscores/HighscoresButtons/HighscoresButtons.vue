@@ -2,12 +2,12 @@
   <div class="highscores-buttons">
 
     <button type="button" class="btn" id="highscores-back-to-menu" v-on:click="showMenu">
-      Zurück zum Menü
+      Volver al Menú
     </button>
     &nbsp;
     <button type="button" class="btn btn--fail" id="highscores-delete-highscores"
       v-if="hasHighscores" v-on:click="deleteHighscores">
-      Highscores löschen
+      Borrar Puntuaciones
     </button>
 
   </div>

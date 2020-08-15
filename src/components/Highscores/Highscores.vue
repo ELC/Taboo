@@ -3,20 +3,20 @@
   <transition name="panel-active">
     <div id="highscores" class="panel panel--left" v-if="showHighscorePanel">
 
-      <h1>Highscores</h1>
+      <h1>Puntuaciones</h1>
 
-      <p v-if="!hasHighscores">Keine Highscores vorhanden.</p>
+      <p v-if="!hasHighscores">No hay puntuaciones registradas.</p>
 
       <div class="table-wrapper highscores-table__wrapper">
         <table class="highscores-table" v-if="hasHighscores">
           <thead>
           <tr>
-            <th>Rang</th>
-            <th>Spieler</th>
-            <th>Kategorie</th>
+            <th>Ranking</th>
+            <th>Nombre</th>
+            <th>Categoria</th>
             <th><img src="@/assets/check-blk.svg" alt="&check;" width="16px"></th>
             <th><img src="@/assets/cross-blk.svg" alt="&cross;" width="16px"></th>
-            <th>Datum</th>
+            <th>Fecha</th>
           </tr>
           </thead>
           <tbody>

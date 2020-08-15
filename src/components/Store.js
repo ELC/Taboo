@@ -8,19 +8,19 @@ Vue.use(Vuex);
 const store = new Vuex.Store({
   state: {
     // Defaults
-    timerDefault: 60,
+    timerDefault: 300,
     countdownDefault: 4,
-    gameInitText: 'Mach dich bereit!',
+    gameInitText: 'Preparado?',
 
     // General game data
-    playerName: '',
-    selectedCategory: 'animals',
+    playerName: 'Player 1',
+    selectedCategory: 'classic',
     availableCards: {},
 
     // Menu states
     playerReady: false,
     categoryReady: true,
-    gameReady: false,
+    gameReady: true,
 
     // App states
     showGamePanel: false,
@@ -45,6 +45,13 @@ const store = new Vuex.Store({
     },
     playerNotReady (state) {
       state.gameReady = state.playerReady = false;
+    },
+    turnDuration (state, turnDuration) {
+      state.timerDefault = turnDuration;
+      state.gameReady = state.categoryReady;
+    },
+    turnNotSet (state) {
+      state.gameReady = false;
     },
     categoryReady (state) {
       state.gameReady = state.playerReady;
@@ -94,6 +101,7 @@ const store = new Vuex.Store({
     },
     setNewKeyword (state) {
       // Pick random property
+      console.log(state.availableCards);
       let keys = Object.keys(state.availableCards);
 
       if (typeof keys === 'undefined') {
@@ -190,7 +198,7 @@ const store = new Vuex.Store({
       this.commit('resetGameState');
     },
     deleteHighscores (state) {
-      if (!confirm('Highscores löschen?')) {
+      if (!confirm('¿Desea borrar las puntuaciones?')) {
         return;
       }
 

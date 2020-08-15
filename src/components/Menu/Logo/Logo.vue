@@ -1,8 +1,8 @@
 <template>
   <div class="logo">
-    <h1 class="logo__headline">KVH Tabu</h1>
+    <h1 class="logo__headline">Tabú</h1>
     <p class="logo__subline">
-      Ein kleines, Tabu-ähnliches Spiel für den Browser
+      Un juego similar al Tabu, ideal para jugar con amigos de manera individual o grupal
     </p>
   </div>
 </template>

@@ -1,0 +1,2863 @@
+{
+  "Alpaca": [
+    "Sudamerica",
+    "Camello",
+    "Llama",
+    "Lana"
+  ],
+  "Amazon Duck": [
+    "Sudamerica",
+    "Pato Donald",
+    "Pájaro",
+    "Pollo"
+  ],
+  "Oso hormiguero": [
+    "Bosque",
+    "Lengua",
+    "largo"
+  ],
+  "Pez payaso": [
+    "Tiburón",
+    "Mar",
+    "Coral"
+  ],
+  "Antílope": [
+    "saltar",
+    "Safari",
+    "León"
+  ],
+  "Lobo ártico": [
+    "Perro",
+    "aullido",
+    "Luna",
+    "Hielo"
+  ],
+  "Elefante asiático": [
+    "Dumbo",
+    "África",
+    "Asia",
+    "Maletero"
+  ],
+  "Pato de las Bahamas": [
+    "Caribe",
+    "Pájaro",
+    "Pato Donald",
+    "Pollo"
+  ],
+  "Oso": [
+    "Oso pardo",
+    "Osito de peluche",
+    "Ted",
+    "Miel",
+    "Uf"
+  ],
+  "Tigre de Bengala": [
+    "Rey",
+    "a rayas",
+    "León"
+  ],
+  "Bisonte": [
+    "Carne de vaca",
+    "Sabio",
+    "Estepas",
+    "America"
+  ],
+  "Bonobo": [
+    "Mono",
+    "Chimpancé",
+    "Babuino",
+    "Primate"
+  ],
+  "Pato de madera": [
+    "Pato Donald",
+    "Aves",
+    "Agua",
+    "Cisne"
+  ],
+  "Rinoceronte blanco": [
+    "Boca",
+    "alto",
+    "África",
+    "Sabana"
+  ],
+  "Oso con gafas": [
+    "Fielmann",
+    "Oso pardo",
+    "America"
+  ],
+  "Pingüino africano": [
+    "Ártico",
+    "Polo Sur"
+  ],
+  "Chihuahua": [
+    "Paris Hilton",
+    "Perro",
+    "pequeña",
+    "Cuerno de pie"
+  ],
+  "Chinchilla": [
+    "pequeña",
+    "Ratón",
+    "Rata",
+    "America"
+  ],
+  "Badger": [
+    "Bosque",
+    "Marta",
+    "Carnívoro",
+    "Depredador"
+  ],
+  "Delfín": [
+    "Ballena",
+    "Mar",
+    "inteligente",
+    "Marsopa"
+  ],
+  "Ardilla": [
+    "Bosque",
+    "Árbol",
+    "Nueces",
+    "Hibernación",
+    "marrón"
+  ],
+  "Oso de hielo": [
+    "Oso pardo",
+    "Osito de peluche",
+    "Blanco",
+    "Polo Norte",
+    "Uf"
+  ],
+  "Eisfuchs": [
+    "Blanco",
+    "Verano"
+  ],
+  "Elefante": [
+    "África",
+    "India",
+    "Maletero",
+    "Gris",
+    "enorme",
+    "Ratones"
+  ],
+  "Emu": [
+    "Pájaro",
+    "Avestruz",
+    "Australia"
+  ],
+  "Suricata": [
+    "Cuevas",
+    "Suelo",
+    "cavar",
+    "estar"
+  ],
+  "Paloma de roca": [
+    "Rata voladora",
+    "Rock",
+    "Gris",
+    "Arrullo"
+  ],
+  "Pez": [
+    "Agua",
+    "nadar",
+    "Branquias",
+    "Ballena",
+    "Salmón",
+    "Pescar"
+  ],
+  "Nutria": [
+    "Agua",
+    "Represa",
+    "Madera"
+  ],
+  "Flamingo": [
+    "rosado",
+    "Pájaro"
+  ],
+  "Murciélago": [
+    "Ultrasónico",
+    "Vampiro",
+    "Noche",
+    "para volar"
+  ],
+  "Hipopótamo": [
+    "Hipopótamo",
+    "Agua",
+    "enorme",
+    "Rinoceronte"
+  ],
+  "Hurón": [
+    "Marta",
+    "Automóvil",
+    "Cable eléctrico",
+    "Illtis"
+  ],
+  "Rana": [
+    "Croar",
+    "Agua",
+    "Sapo"
+  ],
+  "Zorro": [
+    "rojo",
+    "Esconder",
+    "Ciudad",
+    "Ganso"
+  ],
+  "Leopardo": [
+    "rápido",
+    "km / H",
+    "León",
+    "África",
+    "Sabana"
+  ],
+  "Jirafa": [
+    "Cuello",
+    "largo",
+    "Elefante",
+    "Sabana",
+    "África"
+  ],
+  "Gorila": [
+    "Mono",
+    "Chimpancé",
+    "Gris",
+    "Rugido",
+    "Cofre"
+  ],
+  "Graylag goose": [
+    "Zorro",
+    "Pájaro",
+    "Cisne"
+  ],
+  "Gris africano": [
+    "vistoso",
+    "Pájaro"
+  ],
+  "Grizzly": [
+    "marrón",
+    "Kodiak",
+    "Depredador",
+    "Norteamérica"
+  ],
+  "Tiburón": [
+    "Agua",
+    "Dientes",
+    "Tablista",
+    "Tornado"
+  ],
+  "Burro de la casa": [
+    "Ih-Ah",
+    "Caballo",
+    "estúpido",
+    "obstinado",
+    "Gris"
+  ],
+  "Pollo": [
+    "Zorro",
+    "Pájaro",
+    "Cisne",
+    "Huevos"
+  ],
+  "Chicken Goose": [
+    "Zorro",
+    "Pájaro",
+    "Cisne",
+    "Huevos"
+  ],
+  "Perro": [
+    "Perro pastor",
+    "Amigo",
+    "Animal domestico",
+    "Ladrar",
+    "Gato"
+  ],
+  "Hiena": [
+    "África",
+    "Sabana",
+    "insidioso"
+  ],
+  "Erizo": [
+    "Espinas",
+    "pequeña",
+    "Ciudad"
+  ],
+  "Jaguar": [
+    "Marca de auto",
+    "Leopardo",
+    "León",
+    "Sabana",
+    "África"
+  ],
+  "Pingüino emperador": [
+    "Polo Sur",
+    "Ártico",
+    "amarillo",
+    "negro",
+    "Blanco"
+  ],
+  "Canguro": [
+    "Saltar",
+    "Boxeo",
+    "Australia",
+    "Bolso"
+  ],
+  "Conejos": [
+    "Animal domestico",
+    "Liebre",
+    "Patán",
+    ""
+  ],
+  "Gato": [
+    "Animal domestico",
+    "Perro",
+    "Maullar",
+    "Rasguño",
+    "Garras"
+  ],
+  "Oso koala": [
+    "Australia",
+    "Eucalipto",
+    "Árbol"
+  ],
+  "Ball Python": [
+    "Serpiente",
+    "grande",
+    "Bucles"
+  ],
+  "Tigre Rey": [
+    "León",
+    "Gato grande"
+  ],
+  "Cocodrilo": [
+    "Agua",
+    "Caimán"
+  ],
+  "Sapo": [
+    "Rana",
+    "Croar"
+  ],
+  "Vaca": [
+    "Granero",
+    "Leche",
+    "Ubre",
+    "Ordeño",
+    "Paja"
+  ],
+  "Lama": [
+    "Escupir",
+    "Sudamerica",
+    "Guanaco"
+  ],
+  "León": [
+    "Rey",
+    "Tigre",
+    "Leopardo",
+    "África",
+    "Sabana"
+  ],
+  "Mandrill": [
+    "Primate",
+    "Mono",
+    "Correos",
+    "Gorila"
+  ],
+  "Maine Coon": [
+    "Gato",
+    "Esconder",
+    "Pelusa",
+    "Garras",
+    "Maullar"
+  ],
+  "Ratón": [
+    "Roedor",
+    "Rata",
+    "pequeña"
+  ],
+  "Conejillo de indias": [
+    "Ratón",
+    "Animal domestico",
+    "pequeña",
+    "Chirrido"
+  ],
+  "Moor Duck": [
+    "Pollo",
+    "Pantano"
+  ],
+  "Buey almizclero": [
+    "Olor",
+    "Perfume",
+    "Carne de vaca",
+    "Toro"
+  ],
+  "Coatí": [
+    "Árbol",
+    "Subida",
+    "America"
+  ],
+  "Rinoceronte": [
+    "Hipopótamo",
+    "Elefante",
+    "África",
+    "Sabana"
+  ],
+  "Buey": [
+    "Vaca",
+    "Toro",
+    "Anillo",
+    "Nariz"
+  ],
+  "Orangután": [
+    "naranja",
+    "Mono",
+    "Primate",
+    "Chimpancé"
+  ],
+  "Panda": [
+    "negro",
+    "Blanco",
+    "torpe",
+    "China",
+    "Oso"
+  ],
+  "Rinoceronte indio": [
+    "Hipopótamo",
+    "Elefante",
+    "África",
+    "Sabana",
+    "Guerra"
+  ],
+  "Loro": [
+    "vistoso",
+    "rojo",
+    "Pájaro",
+    "Pico"
+  ],
+  "Caballo": [
+    "Equitación",
+    "Sillín",
+    "Vaca",
+    "Carreras de arneses"
+  ],
+  "Pingüino": [
+    "Polo Sur",
+    "Ártico",
+    "amarillo",
+    "negro",
+    "Blanco"
+  ],
+  "Medusa": [
+    "transparente",
+    "Agua",
+    "Mar",
+    "Ortigas"
+  ],
+  "Reno": [
+    "Papá Noel",
+    "Rudolf",
+    "Nariz",
+    "rojo",
+    "Ciervo"
+  ],
+  "Zorro rojo": [
+    "Esconder",
+    "Ciudad",
+    "Ganso"
+  ],
+  "Perro pastor": [
+    "Policía",
+    "Amigo",
+    "Animal domestico",
+    "Ladrar",
+    "Gato"
+  ],
+  "Chimpancé": [
+    "Mono",
+    "Humano",
+    "inteligente",
+    "Primate",
+    "Orangután"
+  ],
+  "Mariposa": [
+    "Ala",
+    "Flores",
+    "vistoso",
+    "Prado"
+  ],
+  "Babosa": [
+    "Moco",
+    "Casa",
+    "pequeña",
+    "despacio"
+  ],
+  "Búho de las nieves": [
+    "Blanco",
+    "Búho real",
+    "Cabeza",
+    "Pájaro"
+  ],
+  "Leopardo de nieve": [
+    "Blanco",
+    "Montañas",
+    "Leopardo"
+  ],
+  "Sello": [
+    "Dotes",
+    "Equilibrar",
+    "Agua",
+    "Mar",
+    "Gato"
+  ],
+  "Caballo de mar": [
+    "Agua",
+    "Mar",
+    "pequeña",
+    "Sillín"
+  ],
+  "Araña": [
+    "Red",
+    "Para volar",
+    "Piernas",
+    "Sótano, bodega"
+  ],
+  "Pollo de piedra": [
+    "Zorro",
+    "Pájaro",
+    "Cisne",
+    "Huevos",
+    "Gris"
+  ],
+  "Bagre esturión": [
+    "Pez",
+    "Branquias"
+  ],
+  "Ganso rayado": [
+    "Cebra",
+    "Zorro",
+    "Pájaro",
+    "Cisne"
+  ],
+  "Búho real": [
+    "Pegamento",
+    "Kautz",
+    "Búho",
+    "Harry Potter"
+  ],
+  "Morsa": [
+    "Agua",
+    "Caballo",
+    "Mar",
+    "Colmillos"
+  ],
+  "Mapache": [
+    "Osito de peluche",
+    "Oso pardo",
+    "Basura"
+  ],
+  "Avispa": [
+    "Abeja",
+    "Miel",
+    "Picadura",
+    "negro",
+    "amarillo"
+  ],
+  "Perro salvaje": [
+    "Perro pastor",
+    "Gato",
+    "Bosque"
+  ],
+  "Lobo": [
+    "salvaje",
+    "Perro",
+    "Aullido",
+    "Luna",
+    "Paquete"
+  ],
+  "Yak": [
+    "Carne de vaca",
+    "Cuernos",
+    "Asia",
+    "Vaca"
+  ],
+  "Cebra": [
+    "Rayas",
+    "Elefante",
+    "Jirafa",
+    "negro",
+    "Blanco",
+    "África"
+  ],
+  "Cabra": [
+    "Leche",
+    "Granero",
+    "Montañas",
+    "Cuernos"
+  ],
+  "Anguila electrica": [
+    "Pez",
+    "Agua",
+    "Fluir",
+    "largo",
+    "Electricidad"
+  ],
+  "Burro enano": [
+    "Ih-Ah",
+    "Caballo",
+    "estúpido",
+    "obstinado"
+  ],
+  "Nutria enana": [
+    "Marta",
+    "Represa",
+    "Madera",
+    "Agua"
+  ],
+  "Pequeño pinguino": [
+    "Polo Sur",
+    "Ártico",
+    "negro",
+    "Blanco"
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "cerveza sin alcohol": [
+    "Niña",
+    "Beber"
+  ],
+  "Puré de manzana": [
+    "Fruta",
+    "Árbol",
+    "Vaso",
+    "Despierta"
+  ],
+  "Astra (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Hamburgo"
+  ],
+  "Beck's (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Hamburgo"
+  ],
+  "Berliner Kindl (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Capital"
+  ],
+  "Berliner Pilsner (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Capital"
+  ],
+  "Cerveza": [
+    "Beber",
+    "Botella",
+    "Empujar"
+  ],
+  "Jamón de cerveza": [
+    "Salchicha",
+    "Alcohol"
+  ],
+  "Big Mac": [
+    "MC Donalds",
+    "Hamburguesa",
+    "Pattie",
+    "Ensalada"
+  ],
+  "Bitburger (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Hojaldres": [
+    "Papel",
+    "dulce",
+    "Pastel",
+    "Para hornear"
+  ],
+  "Pollo asado": [
+    "Parrilla",
+    "Horno",
+    "Alitas de pollo",
+    "Piel"
+  ],
+  "Bratwurst": [
+    "Currywurst",
+    "Turingia",
+    "Interrogatorio intenso"
+  ],
+  "Bollo": [
+    "Schrippe",
+    "Rodar",
+    "horneado",
+    "Panadero"
+  ],
+  "Budweiser (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Republica checa"
+  ],
+  "Burger King": [
+    "MC Donalds",
+    "Hamburguesa",
+    "Papas fritas",
+    "Comida rápida"
+  ],
+  "Mantequilla": [
+    "Magarina",
+    "Gordo",
+    "Carne asada",
+    "Pan"
+  ],
+  "Queso Camembert": [
+    "Queso",
+    "Blanco",
+    "Arándanos"
+  ],
+  "Carlsberg (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "verde"
+  ],
+  "Ciabatta": [
+    "Pan",
+    "horneado",
+    "Italia"
+  ],
+  "Clausthaler (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Salsa de cóctel": [
+    "Interrogatorio intenso",
+    "Filete",
+    ""
+  ],
+  "Cola": [
+    "Beber",
+    "Fanta",
+    "Duende",
+    "marrón",
+    "Coca"
+  ],
+  "Corona (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Tequila"
+  ],
+  "Copos de maíz": [
+    "Desayuno",
+    "Leche",
+    "Kellogs",
+    "Cereal"
+  ],
+  "Queso crema fresca": [
+    "Papas",
+    "Crema",
+    "Cocinar",
+    "Ensalada"
+  ],
+  "Croissant": [
+    "Desayuno",
+    "doblado",
+    "horneado",
+    "dulce",
+    "Mermelada"
+  ],
+  "Currywurst": [
+    "Interrogatorio intenso",
+    "Berlina",
+    "Turingia"
+  ],
+  "Desperados (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Tequila"
+  ],
+  "Doner Kebab": [
+    "Dürum",
+    "Lucio",
+    "Dispositivo",
+    "Falafel",
+    "Ensalada"
+  ],
+  "Rosquilla": [
+    "redondo",
+    "dulce",
+    "Vidriar",
+    "Café"
+  ],
+  "Dunkin Donuts": [
+    "Café",
+    "redondo",
+    "dulce",
+    "Vidriar"
+  ],
+  "Dürüm": [
+    "Doner",
+    "Falafel",
+    "Masa",
+    "Ensalada"
+  ],
+  "Huevos": [
+    "Pollo",
+    "redondo",
+    "Blanco",
+    "Espejo",
+    "Pan"
+  ],
+  "Hielo": [
+    "Verano",
+    "frío",
+    "congelado",
+    "Chocolate",
+    "Vainilla",
+    "Tazas"
+  ],
+  "Pato": [
+    "Estanque",
+    "Navidad",
+    "Pato",
+    "Ganso"
+  ],
+  "Erdinger (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "no alcohólico"
+  ],
+  "Falafel": [
+    "Doner",
+    "Dürum",
+    "Ensalada"
+  ],
+  "Palitos de pescado": [
+    "Iglo",
+    "Capitán",
+    "Mar"
+  ],
+  "Flensburger (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Trucha": [
+    "Pez",
+    "Mar",
+    "Pescar"
+  ],
+  "Franziskaner (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Monje",
+    "Monasterio"
+  ],
+  "Albóndiga": [
+    "Boulette",
+    "Albóndiga",
+    "Carne"
+  ],
+  "Queso crema": [
+    "Mantequilla",
+    "Yogur",
+    "Propagar",
+    "Pan"
+  ],
+  "Zumo de frutas": [
+    "Beber",
+    "Manzana",
+    "Naranja",
+    "Árbol"
+  ],
+  "Ganso": [
+    "Pato",
+    "Navidad",
+    "Pavo"
+  ],
+  "Camarón": [
+    "Mar",
+    "Fruta",
+    "Sushi"
+  ],
+  "Vegetales": [
+    "Fruta",
+    "Ensalada",
+    "Tomates"
+  ],
+  "Queso gouda": [
+    "Queso",
+    "Emmentaler",
+    "Dama a medida"
+  ],
+  "Budín de sémola": [
+    "Postre",
+    "dulce",
+    "Cerezas",
+    "Arroz con leche"
+  ],
+  "Ensalada verde": [
+    "Caesar",
+    "Tomates",
+    "Pepino"
+  ],
+  "Carne picada": [
+    "Boulette",
+    "Carne de vaca",
+    "Cerdo"
+  ],
+  "Filete de pechuga de pollo": [
+    "Carne",
+    "multa",
+    "Huevos"
+  ],
+  "Mantequilla semigrasa": [
+    "Magarina",
+    "todas",
+    "Propagar",
+    "Pan"
+  ],
+  "Hamburguesa": [
+    "MC Donalds",
+    "Burger King",
+    "Pan",
+    "Pattie",
+    "Ensalada"
+  ],
+  "Hasseröder (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Heineken (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Filete de arenque": [
+    "Pez",
+    "Mar",
+    "Pescar",
+    "multa"
+  ],
+  "Miel": [
+    "Abejas",
+    "Apicultor",
+    "dulce",
+    "Desayuno"
+  ],
+  "Pancho": [
+    "Pan",
+    "Salchicha",
+    "IKEA",
+    "ESTADOS UNIDOS"
+  ],
+  "Jack Daniels (whisky)": [
+    "Beber",
+    "negro"
+  ],
+  "Jever (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Yogur": [
+    "dulce",
+    "Postre"
+  ],
+  "Johnnie Walker (whisky)": [
+    "Beber",
+    "ESTADOS UNIDOS",
+    "Vamos"
+  ],
+  "Karamalz (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Karlsberg (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Patatas fritas": [
+    "salado",
+    "picar",
+    "Chio"
+  ],
+  "Masa de albóndigas de patata": [
+    "Carne asada",
+    "Repollo rojo",
+    "Cocinar"
+  ],
+  "Papas": [
+    "Patata",
+    "marrón",
+    "Cocinar",
+    "Papas fritas"
+  ],
+  "Ensalada de papas": [
+    "Patata",
+    "Mayonesa"
+  ],
+  "KFC": [
+    "Alitas de pollo",
+    "Gordo",
+    "ESTADOS UNIDOS",
+    "Cubeta"
+  ],
+  "Pan crujiente": [
+    "seco",
+    "difícil",
+    "Pan",
+    "horneado"
+  ],
+  "König Pilsener (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Príncipe"
+  ],
+  "Köstritzer (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Quark de hierbas": [
+    "Papas",
+    "Jardín",
+    "Perejil"
+  ],
+  "Croquetas": [
+    "Papas",
+    "Papas fritas",
+    "Porciones"
+  ],
+  "Krombacher (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Selva"
+  ],
+  "Salmón": [
+    "Pez",
+    "Mar",
+    "Pescar",
+    "Atún"
+  ],
+  "Regaliz": [
+    "dulce",
+    "negro",
+    "Picar"
+  ],
+  "Embutido de hígado": [
+    "Propagar",
+    "Pan",
+    "Carne"
+  ],
+  "Licor": [
+    "Beber",
+    "Aguardiente"
+  ],
+  "Limonada": [
+    "Beber",
+    "Reajuste salarial",
+    "Fanta",
+    "Duende"
+  ],
+  "Löwenbräu (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Baviera"
+  ],
+  "Lübzer (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Caballa": [
+    "Pez",
+    "Mar",
+    "Pescar"
+  ],
+  "Margarina": [
+    "Mantequilla",
+    "Propagar",
+    "Pan"
+  ],
+  "Mermelada": [
+    "Desayuno",
+    "Propagar",
+    "Pan",
+    "Fresas"
+  ],
+  "Mazapán": [
+    "Pastel",
+    "dulce",
+    "Decoración",
+    "Blanco"
+  ],
+  "Mascarpone": [
+    "Tiramisu",
+    "dulce",
+    "pesado",
+    "Italia"
+  ],
+  "Mayonesa": [
+    "Salsa de tomate",
+    "Salchicha",
+    "Papas fritas",
+    "Blanco"
+  ],
+  "MC Donalds": [
+    "Burger King",
+    "Hamburguesa",
+    "Papas fritas",
+    "amarillo",
+    "Arco"
+  ],
+  "Leche": [
+    "Vaca",
+    "Blanco",
+    "Beber",
+    "Cereal",
+    "Desayuno",
+    "Lactosa"
+  ],
+  "Mousse": [
+    "Chocolate",
+    "aireado",
+    "marrón",
+    "Espuma"
+  ],
+  "Queso Mozzarella": [
+    "Pizza",
+    "Tomate",
+    "Italia",
+    "Queso"
+  ],
+  "Cereal": [
+    "Desayuno",
+    "Copos de maíz",
+    "Leche",
+    "Cuenco"
+  ],
+  "Fideos": [
+    "Espaguetis",
+    "Pasta",
+    "Salsa de tomate",
+    "Italia"
+  ],
+  "Nueces": [
+    "Macadamia",
+    "Fruta",
+    "Cuenco",
+    "Mezcla de frutos secos"
+  ],
+  "Crema de turrón de nueces": [
+    "Nutella",
+    "Chocolate",
+    "Desayuno"
+  ],
+  "Nutella": [
+    "Crema de turrón de nueces",
+    "Chocolate",
+    "Desayuno",
+    "Propagar"
+  ],
+  "Fruta": [
+    "Vegetales",
+    "Manzana",
+    "Plátano",
+    "Fresa"
+  ],
+  "Pastel de frutas": [
+    "Para hornear",
+    "Manzana",
+    "Ciruela",
+    "Abuelita",
+    "Vegetales"
+  ],
+  "Oettinger (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "barato"
+  ],
+  "Aceite de girasol": [
+    "Colza",
+    "Aceite de oliva",
+    "Carne asada",
+    "Cocinar",
+    "Mantequilla"
+  ],
+  "Olivos": [
+    "Petróleo",
+    "verde",
+    "negro",
+    "amargo"
+  ],
+  "Naranjas": [
+    "Mandarinas",
+    "Fruta",
+    "Navidad"
+  ],
+  "Paulaner (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Canto a la tirolesa"
+  ],
+  "Pesto": [
+    "Tallarines",
+    "Espaguetis",
+    "Hierbas",
+    "Pegar"
+  ],
+  "Panqueques": [
+    "Para hornear",
+    "dulce",
+    "Mermelada",
+    "Postre",
+    "Pastel"
+  ],
+  "Pilsener Urquell (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Pizza Hut": [
+    "ESTADOS UNIDOS",
+    "KFC",
+    "Comida rápida",
+    "rojo",
+    "Italia"
+  ],
+  "Papas fritas": [
+    "MC Donalds",
+    "Papas"
+  ],
+  "Palomitas de maiz": [
+    "Maíz",
+    "Cine",
+    "Sal",
+    "Mantequilla",
+    "Azúcar",
+    "Picar"
+  ],
+  "Pudín": [
+    "Chocolate",
+    "Vainilla",
+    "dulce",
+    "Postre"
+  ],
+  "Radeberger (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Arroz": [
+    "Asia",
+    "China",
+    "Blanco",
+    "Grano",
+    "Varilla"
+  ],
+  "Galletas de arroz": [
+    "Blanco",
+    "Aire",
+    "Merienda",
+    "descanso"
+  ],
+  "Carne molida": [
+    "Desfibradora",
+    "Vaca",
+    "Leche",
+    "Boulette"
+  ],
+  "Filete de ternera": [
+    "Carne",
+    "Vaca",
+    "T-Bone",
+    "Filete"
+  ],
+  "Carne de vaca": [
+    "Cerdo",
+    "Cortar a tajos",
+    "Filete"
+  ],
+  "Rollmops": [
+    "Pez",
+    "Pan",
+    "Arenque"
+  ],
+  "Bizcocho": [
+    "Para hornear",
+    "Abuelita",
+    "Varilla"
+  ],
+  "Crema": [
+    "Mantequilla",
+    "Leche",
+    "Pastel",
+    "Helado con frutas y nueces"
+  ],
+  "Pudín de crema": [
+    "dulce",
+    "Postre"
+  ],
+  "Pastel de crema": [
+    "Pastel",
+    "Mantequilla",
+    "Leche",
+    "dulce",
+    "Boda"
+  ],
+  "Salami": [
+    "Salchicha",
+    "Cerdo",
+    "Cortar a tajos",
+    "Cubierta"
+  ],
+  "Salsa de ensalada": [
+    "Tomate",
+    "Hierbas",
+    "Ceasar",
+    "Yogur"
+  ],
+  "Palitos de pretzel": [
+    "marrón",
+    "Pretzels",
+    "Picar"
+  ],
+  "Salsa holandesa": [
+    "Chuleta de ternera",
+    "Espárragos",
+    "Holanda",
+    "Países Bajos"
+  ],
+  "Crema agria": [
+    "dulce",
+    "salado",
+    "Mantequilla",
+    "Leche"
+  ],
+  "Croissant de jamón y queso": [
+    "Salchicha",
+    "Desayuno",
+    "París",
+    "Francia"
+  ],
+  "Schöfferhofer (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Chocolate": [
+    "Cacao",
+    "Nutella",
+    "Ritter Sport"
+  ],
+  "Schultheiss (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Berlina"
+  ],
+  "Pan negro": [
+    "Tostada",
+    "oscuro",
+    "Para hornear"
+  ],
+  "Chuleta de cerdo": [
+    "Carne",
+    "Filete",
+    "T-Bone",
+    "Vaca",
+    "Carne de vaca"
+  ],
+  "Schnitzel de cerdo": [
+    "Carne",
+    "Filete",
+    "T-Bone",
+    "Vaca",
+    "Carne de vaca",
+    "Empanado",
+    "Papas fritas"
+  ],
+  "Pez carbón": [
+    "Pez",
+    "Mar",
+    "Pescar"
+  ],
+  "Vino espumoso": [
+    "Beber",
+    "Ácido carbónico",
+    "Empujar",
+    "Vispera de Año Nuevo"
+  ],
+  "Spaetzle": [
+    "Tallarines",
+    "Masa",
+    "Austria"
+  ],
+  "Quark": [
+    "Papas",
+    "Hierbas",
+    "Yogur",
+    "Crema"
+  ],
+  "Starbucks": [
+    "Café",
+    "costoso",
+    "Tazas",
+    "verde",
+    "ESTADOS UNIDOS",
+    "Hipster"
+  ],
+  "Filete": [
+    "Carne",
+    "Chuleta de ternera",
+    "Papas fritas",
+    "T-Bone",
+    "Filete"
+  ],
+  "Sternburg (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "barato",
+    "Exportar"
+  ],
+  "Subterraneo": [
+    "Emparedado",
+    "Ensalada",
+    "Carne",
+    "ESTADOS UNIDOS",
+    "Comida rápida",
+    "Galletas",
+    "Galletas"
+  ],
+  "Sopa": [
+    "líquido",
+    "Agua",
+    "Hierbas",
+    "Caldo"
+  ],
+  "Sushi": [
+    "Pez",
+    "Algas",
+    "Arroz",
+    "Asia",
+    "China",
+    "Japón"
+  ],
+  "Vegetales congelados": [
+    "Congelar",
+    "Fruta",
+    "Hielo"
+  ],
+  "Pizza congelada": [
+    "Congelar",
+    "Hielo",
+    "Italia",
+    "Salami"
+  ],
+  "Tiramisu": [
+    "Mascarpone",
+    "Café",
+    "Galleta",
+    "Pastel",
+    "Italia"
+  ],
+  "Tostada": [
+    "Pan",
+    "Para hornear",
+    "Blanco",
+    "brillante"
+  ],
+  "Brindis por Hawaii": [
+    "Piña",
+    "Jamón",
+    "Pan",
+    "ESTADOS UNIDOS",
+    "Estado"
+  ],
+  "Salsa de tomate": [
+    "Tallarines",
+    "Espaguetis",
+    "rojo",
+    "Boloñesa"
+  ],
+  "Fruta seca": [
+    "mojado",
+    "Vegetales",
+    "Manzana",
+    "Plátano"
+  ],
+  "Veltins (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "Grevenstein"
+  ],
+  "Vitamalz (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Gelatina": [
+    "verde",
+    "Woodruff",
+    "Temblar",
+    "dulce",
+    "Postre"
+  ],
+  "Warsteiner (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber",
+    "oro"
+  ],
+  "Vino": [
+    "Beber",
+    "rojo",
+    "Blanco",
+    "Adultos"
+  ],
+  "Pan blanco": [
+    "Tostada",
+    "brillante",
+    "oscuro",
+    "negro"
+  ],
+  "Wernesgrüner (cerveza)": [
+    "elaborado",
+    "Mandato de pureza",
+    "Beber"
+  ],
+  "Whisky": [
+    "Beber",
+    "Espíritu",
+    "Escocia",
+    "marrón"
+  ],
+  "Salchichas Wiener": [
+    "Pancho",
+    "Pan",
+    "Austria"
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "Antena": [
+    "Mirar televisión",
+    "Internet",
+    "ACCESO A INTERNET INALÁMBRICO"
+  ],
+  "Bandeja para hornear": [
+    "Pastel",
+    "Pastel"
+  ],
+  "Motor de gasolina": [
+    "Diesel",
+    "Automóvil",
+    "Cilindro",
+    "Motocicleta"
+  ],
+  "Escoba": [
+    "Limpieza",
+    "Barriendo",
+    "Limpiar",
+    "Barrer"
+  ],
+  "Cubiertos": [
+    "Cuchillo",
+    "Cuchara",
+    "Tenedor",
+    "Comer"
+  ],
+  "Ropa de cama": [
+    "Almohada",
+    "Techo",
+    "Referencia"
+  ],
+  "BluRay": [
+    "DVD",
+    "DISCOS COMPACTOS",
+    "Película",
+    "Gigabytes"
+  ],
+  "Tabla de planchar": [
+    "Camisas",
+    "caliente",
+    "suave",
+    "Planchar"
+  ],
+  "Hierro": [
+    "Camisas",
+    "caliente",
+    "suave"
+  ],
+  "Plato de mantequilla": [
+    "Magarina",
+    "Rifle",
+    "Refrigerador"
+  ],
+  "DISCOS COMPACTOS": [
+    "DVD",
+    "Música"
+  ],
+  "Computadora": [
+    "ORDENADOR PERSONAL",
+    "Ordenador portátil",
+    "Cuaderno",
+    "Internet"
+  ],
+  "Ratón de computadora": [
+    "Teclado",
+    "ORDENADOR PERSONAL",
+    "Cursor"
+  ],
+  "Tomógrafo computarizado": [
+    "Medicamento",
+    "Médico",
+    "Examen"
+  ],
+  "Plancha de vapor": [
+    "Camisas",
+    "caliente",
+    "suave"
+  ],
+  "Cámara digital": [
+    "Smartphone",
+    "Foto",
+    "Computadora"
+  ],
+  "Abrelatas": [
+    "Preservar",
+    "Rifle"
+  ],
+  "Cortina de la ducha": [
+    "Tina",
+    "Bañarse",
+    "Agua"
+  ],
+  "Jet": [
+    "Jet",
+    "Piloto",
+    "Motor"
+  ],
+  "DVD": [
+    "Película",
+    "Jugador",
+    "TELEVISIÓN",
+    "DISCOS COMPACTOS"
+  ],
+  "Dynamo": [
+    "Bicicleta",
+    "Lámpara",
+    "Electricidad"
+  ],
+  "Huevera": [
+    "Pollo",
+    "Desayuno",
+    "cocido"
+  ],
+  "Hervidor de huevos": [
+    "Reloj",
+    "Pollo"
+  ],
+  "Temporizador de huevos": [
+    "Cocinar",
+    "Hora",
+    "Puntero",
+    "Pollo"
+  ],
+  "Ferrocarril": [
+    "Vapor",
+    "Rieles",
+    "Locomotora"
+  ],
+  "Palillos": [
+    "Madera",
+    "China",
+    "dos",
+    "Arroz"
+  ],
+  "TELEVISIÓN": [
+    "Tele",
+    "TELEVISIÓN",
+    "RTL",
+    "ProSieben"
+  ],
+  "Disco duro": [
+    "Computadora",
+    "ORDENADOR PERSONAL",
+    "ahorrar",
+    "Gigabytes"
+  ],
+  "Bandera": [
+    "Bandera",
+    "izar",
+    "Mástil",
+    "aleteo"
+  ],
+  "Pluma fuente": [
+    "Escuela primaria",
+    "escribir",
+    "Tinta"
+  ],
+  "Guardarropa": [
+    "Vestido",
+    "colgando",
+    "Armario"
+  ],
+  "Turbina de gas": [
+    "Planta de energía",
+    "Pedo",
+    "Electricidad",
+    "Avión"
+  ],
+  "Congelador": [
+    "Refrigerador",
+    "Hielo",
+    "frío"
+  ],
+  "Contador Geiger": [
+    "Átomo",
+    "Radiación",
+    "Música"
+  ],
+  "Platos": [
+    "Cuchillería",
+    "Plato",
+    "Cuchillo",
+    "Tenedor"
+  ],
+  "Paños de cocina": [
+    "seco",
+    "seco",
+    "mojado"
+  ],
+  "Lavavajillas": [
+    "Lavado a mano",
+    "Plato",
+    "Cuchillería"
+  ],
+  "Regadera": [
+    "Agua",
+    "Flores",
+    "regar"
+  ],
+  "Lampara incandescente": [
+    "LED",
+    "Cable",
+    "Ligero"
+  ],
+  "Secador de pelo / secador de pelo": [
+    "calentar",
+    "caliente",
+    "Aire",
+    "Tomar una ducha",
+    "Cabello"
+  ],
+  "Martillo": [
+    "Uña",
+    "Pared",
+    "Herramienta"
+  ],
+  "Aspiradora de mano": [
+    "Pie",
+    "Limpiar",
+    "Limpieza",
+    "Suciedad"
+  ],
+  "Tijeras para el hogar": [
+    "cortar",
+    "Plano"
+  ],
+  "Cine en casa": [
+    "Película",
+    "Proyector",
+    "Sistema de sonido",
+    "5.1"
+  ],
+  "Bicicleta estática": [
+    "Deportes",
+    "Músculos",
+    "Formación"
+  ],
+  "Almohadilla térmica": [
+    "Invierno",
+    "Techo",
+    "calentar"
+  ],
+  "Calentador": [
+    "Viento",
+    "calentar",
+    "Invierno"
+  ],
+  "Marcapasos": [
+    "EKG",
+    "Infarto"
+  ],
+  "Limpiador de alta presión": [
+    "PSI",
+    "Kärcher"
+  ],
+  "Helicóptero": [
+    "Rotor",
+    "para volar",
+    "Avión"
+  ],
+  "Cable eléctrico": [
+    "Electricidad",
+    "largo",
+    "Enchufe",
+    "Mirar televisión"
+  ],
+  "Tambor de cable": [
+    "Electricidad",
+    "Electricidad",
+    "enrollar"
+  ],
+  "Filtro de café": [
+    "Máquina",
+    "Jarra"
+  ],
+  "Maquina de cafe": [
+    "Té",
+    "Filtrar",
+    "Jarra"
+  ],
+  "Máquina de café totalmente automática": [
+    "Té",
+    "Latte Macchiato",
+    "Café exprés"
+  ],
+  "Jarra": [
+    "Té",
+    "Café",
+    "transporte",
+    "Vaso"
+  ],
+  "Pelador de patatas": [
+    "Patata"
+  ],
+  "Machucador": [
+    "Puré",
+    "Patata"
+  ],
+  "Grabador de cassette": [
+    "anticuado",
+    "Cinta",
+    "Música"
+  ],
+  "Recogedor": [
+    "Limpieza",
+    "Escoba",
+    "Suciedad"
+  ],
+  "Perchas": [
+    "colgando",
+    "Armario"
+  ],
+  "Cepillo de baño": [
+    "Baño",
+    "Limpieza"
+  ],
+  "Prensa de ajo": [
+    "Vampiro",
+    "cortar",
+    "Comer",
+    "Italia"
+  ],
+  "Lentes de contacto": [
+    "Ojo",
+    "Lentes",
+    "ver"
+  ],
+  "Almohada": [
+    "Cama",
+    "dormir"
+  ],
+  "Sacacorchos": [
+    "Vino",
+    "Comer",
+    "Restaurante",
+    "Camarero"
+  ],
+  "Tarjeta de crédito": [
+    "Dinero",
+    "El plastico",
+    "CE",
+    "Banco"
+  ],
+  "Escoba de cocina": [
+    "Limpieza",
+    "barrer"
+  ],
+  "Cuchillo de cocina": [
+    "cortar",
+    "Comer",
+    "preparar"
+  ],
+  "Toallas de cocina": [
+    "Zewa",
+    "seco",
+    "Mancha",
+    "limpiar"
+  ],
+  "Básculas de cocina": [
+    "Comer",
+    "Peso",
+    "pesar"
+  ],
+  "Rodamiento de bolas": [
+    "Bicicleta",
+    "Tienda",
+    "lubricar"
+  ],
+  "Refrigerador": [
+    "congelar",
+    "Comer",
+    "frío"
+  ],
+  "LP": [
+    "DISCOS COMPACTOS",
+    "Vinilo",
+    "Música",
+    "Sonidos"
+  ],
+  "Impresora laser": [
+    "Virador",
+    "Tinta",
+    "Papel",
+    "Computadora"
+  ],
+  "Escalera": [
+    "subida",
+    "Arriba, techo"
+  ],
+  "Soldador": [
+    "Electrónica",
+    "Artesanía",
+    "Para construir"
+  ],
+  "Humidificador": [
+    "seco",
+    "mojado",
+    "Viento",
+    "Clima"
+  ],
+  "Freno de aire": [
+    "Automóvil",
+    "PSI"
+  ],
+  "Aerodeslizador": [
+    "Agua",
+    "Avión"
+  ],
+  "Dirigible": [
+    "Hindenburg",
+    "Helio",
+    "Globo"
+  ],
+  "Masajeador": [
+    "beneficioso",
+    "Tensión"
+  ],
+  "Alfombrilla de ratón": [
+    "Computadora",
+    "Edición",
+    "Escritorio"
+  ],
+  "Regleta de enchufes": [
+    "Electricidad",
+    "Electricidad",
+    "TELEVISIÓN"
+  ],
+  "Monitor": [
+    "Computadora",
+    "Monitor"
+  ],
+
+  "Basura": [
+    "Residuos",
+    "Tonelada",
+    "Orgánico"
+  ],
+  "Tijeras de uñas": [
+    "Dedo",
+    "Pies",
+    "Manicura"
+  ],
+  "Hilo de coser": [
+    "Vestido",
+    "Agujero",
+    "Reparar"
+  ],
+  "Aguja de coser": [
+    "Vestido",
+    "Agujero",
+    "Reparar"
+  ],
+  "Tanque": [
+    "Guerra",
+    "Acero"
+  ],
+  "Básculas": [
+    "grasa",
+    "Kilogramo"
+  ],
+  "Pömpel": [
+    "Baño",
+    "Lavabo",
+    "Estreñimiento"
+  ],
+  "Cubo de limpieza": [
+    "Limpieza",
+    "Fregona"
+  ],
+  "Mochila": [
+    "vestir",
+    "Bolso",
+    "Colegio",
+    "transporte"
+  ],
+  "Cuchara de mezcla": [
+    "Pastel",
+    "Para hornear"
+  ],
+  "Servidores de ensalada": [
+    "Tenedor",
+    "Cuchara"
+  ],
+  "Satélite": [
+    "GPS",
+    "Espacio"
+  ],
+  "Espejo para maquillarse": [
+    "Maquillaje",
+    "Carnaval",
+    "Carnaval"
+  ],
+  "Batir": [
+    "Huevo",
+    "golpear",
+    "Metal"
+  ],
+  "Tabla de cortar": [
+    "Cuchillo",
+    "Comer",
+    "Madera"
+  ],
+  "Máquina de escribir": [
+    "anticuado",
+    "Llaves",
+    "Papel"
+  ],
+  "Depurador": [
+    "Fregona",
+    "Limpieza",
+    "Limpieza"
+  ],
+  "Máquina para pulir zapatos": [],
+  "Cuenco": [
+    "transporte",
+    "Comer"
+  ],
+  "Scree": [
+    "Tallarines",
+    "desagüe"
+  ],
+  "Smartphone": [
+    "Teléfono móvil",
+    "Manzana",
+    "Samsung",
+    "móvil"
+  ],
+  "Célula solar": [
+    "Casa",
+    "Arriba, techo",
+    "Dom",
+    "Electricidad"
+  ],
+  "Tumbona": [
+    "Solárium",
+    "marrón",
+    "Broncearse"
+  ],
+  "Lata de aerosol": [
+    "Pintada",
+    "Vandalismo",
+    "Color"
+  ],
+  "Aspiradora": [
+    "Limpieza",
+    "Limpieza",
+    "absorber"
+  ],
+  "Duster": [
+    "Limpieza",
+    "Limpieza"
+  ],
+  "Plumero": [
+    "Limpieza",
+    "Limpieza"
+  ],
+  "Motor a reacción": [
+    "Piloto de combate",
+    "Avión",
+    "Caza de reacción",
+    "para volar"
+  ],
+  "Tranvía": [
+    "Entrenar",
+    "Tranvía",
+    "Transporte",
+    "transporte público"
+  ],
+  "Bandeja": [
+    "Comer",
+    "transporte",
+    "traer",
+    "Camarero"
+  ],
+  "Linterna": [
+    "oscuro",
+    "Ligero",
+    "Baterías"
+  ],
+  "Teclado": [
+    "Computadora",
+    "Llaves",
+    "Entrada"
+  ],
+  "Tetera": [
+    "Buque",
+    "regar"
+  ],
+  "Colador de té": [
+    "Café",
+    "elaborar cerveza"
+  ],
+  "Teléfono": [
+    "Llamada de larga distancia",
+    "Teléfono móvil",
+    "Smartphone"
+  ],
+  "Telegraph": [
+    "Teléfono",
+    "Télex"
+  ],
+  "Alfombra": [
+    "Laminado",
+    "Tejido de alfombra",
+    "Suelo"
+  ],
+  "Limpiador de alfombra": [],
+  "Impresora de inyección de tinta": [
+    "Virador",
+    "Papel",
+    "Computadora"
+  ],
+  "Manteles": [],
+  "Tostadora": [
+    "Pan",
+    "caliente",
+    "calentar"
+  ],
+  "Soporte de papel rollo baño": [
+    "Lavabo",
+    "Mierda"
+  ],
+  "Pie Bell": [
+    "Pastel",
+    "Café",
+    "Transporte"
+  ],
+  "Servidor de pastel": [
+    "Pastel",
+    "Café",
+    "Plato"
+  ],
+  "Panel táctil": [
+    "iPad",
+    "Smartphone",
+    "Monitor",
+    "Contacto"
+  ],
+  "Transistor": [
+    "Electrónica"
+  ],
+  "Mochila de trekking": [
+    "Caminata",
+    "transporte",
+    "Cámping",
+    "Equipaje"
+  ],
+  "Cable USB": [
+    "Electricidad",
+    "Teléfono móvil",
+    "Smartphone",
+    "Computadora"
+  ],
+  "Memoria USB": [
+    "ahorrar",
+    "Computadora",
+    "ORDENADOR PERSONAL",
+    "Disco duro"
+  ],
+  "Ventilador": [
+    "Viento",
+    "Aire",
+    "frio"
+  ],
+  "Cable de extensión": [
+    "Electricidad",
+    "TELEVISIÓN",
+    "Enchufe"
+  ],
+  "Motor de cuatro tiempos": [
+    "Automóvil",
+    "Encendido",
+    "Cilindro"
+  ],
+  "Candado": [
+    "Llave",
+    "cerca",
+    "Sótano, bodega"
+  ],
+  "Manta térmica": [
+    "Calor",
+    "Almohada",
+    "Cama"
+  ],
+  "Pinza de ropa": [
+    "Vestido",
+    "Cuerda",
+    "seco",
+    "colgando"
+  ],
+  "Cesto de la ropa": [
+    "Secadora",
+    "vestir",
+    "Vestido"
+  ],
+  "Tendedero": [
+    "seco",
+    "colgar",
+    "Soportes"
+  ],
+  "Lavadora": [
+    "Secadora",
+    "Polvo",
+    "Suavizante"
+  ],
+  "Lavadora secadora": [
+    "Máquina",
+    "Vestido",
+    "Cuerda"
+  ],
+  "Cama de agua": [
+    "dormir",
+    "Noche",
+    "Almohada",
+    "Funda Nordica"
+  ],
+  "Calentador de agua": [
+    "calor",
+    "Té",
+    "Café"
+  ],
+  "Bomba de hidrogeno": [
+    "Átomo",
+    "Einstein",
+    "ESTADOS UNIDOS",
+    "Explosión"
+  ],
+  "Fregona": [
+    "Limpieza",
+    "limpiar",
+    "Suelo"
+  ],
+  "Taza de cepillo de dientes": [
+    "Dentista",
+    "Cepillo"
+  ],
+  "Centrífuga": [
+    "Medicamentos",
+    "arrojar"
+  ],
+  "Atomizador": [
+    "Flores",
+    "Limpiador de vidrio",
+    ""
+  ],
+  "Bujía": [
+    "Automóvil",
+    "Motor",
+    "comienzo"
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "Bloqueador de anuncios": [
+    "Publicidad",
+    "Páginas web",
+    "esconder",
+    "molesto"
+  ],
+  "Amazon": [
+    "Comprar",
+    "Comercio",
+    "Compras",
+    "en línea",
+    "Principal"
+  ],
+  "Tienda de aplicaciones": [
+    "Manzana",
+    "Google",
+    "Smartphone",
+    "Software",
+    "Descargar"
+  ],
+  "Avatar": [
+    "Usuario",
+    "Usuario",
+    "Imagen",
+    "Perfil"
+  ],
+  "Bitcoin": [
+    "Cripto",
+    "Moneda",
+    "Ethereum",
+    "Dinero",
+    "Blockchain"
+  ],
+  "Blockchain": [
+    "Cripto",
+    "Moneda",
+    "Ethereum",
+    "Dinero",
+    "Bitcoin"
+  ],
+  "Blog": [
+    "Artículos",
+    "leer",
+    "escribir",
+    "WordPress"
+  ],
+  "Navegador": [
+    "Internet",
+    "surf",
+    "URL",
+    "Páginas web"
+  ],
+  "Nube": [
+    "Dropbox",
+    "Almacenamiento",
+    "Servidor",
+    "Nube",
+    "en línea"
+  ],
+  "Coinbase": [
+    "Cripto",
+    "Moneda",
+    "Ethereum",
+    "Dinero",
+    "Blockchain"
+  ],
+  "Dark Web": [
+    "Drogas",
+    "Armas",
+    "prohibido",
+    "Objetivo"
+  ],
+  "Privacidad": [
+    "Intimidad",
+    "ahorrar",
+    "Información",
+    "Detalles"
+  ],
+  "Descargar": [
+    "Descargar",
+    "Expediente",
+    "Computadora",
+    "Navegador"
+  ],
+  "eBay": [
+    "Subastas",
+    "comprar",
+    "subasta",
+    "oferta"
+  ],
+  "libro electronico": [
+    "Amazonas",
+    "Libro",
+    "leer",
+    "Lector",
+    "digital"
+  ],
+  "Emoticon": [
+    "Smiley",
+    "Símbolo",
+    "Personaje",
+    "Estado animico"
+  ],
+  "Facebook": [
+    "red social",
+    "Mark Zuckerberg",
+    "social",
+    "empujar"
+  ],
+  "Google": [
+    "Buscador",
+    "Correo",
+    "Resultados",
+    "Mapas"
+  ],
+  "Google+": [
+    "red social",
+    "Facebook",
+    "Buscador"
+  ],
+  "Hacker": [
+    "Ladrón",
+    "Estafadores",
+    "robar",
+    "Contraseña"
+  ],
+  "Hype": [
+    "red social",
+    "Tema",
+    "Entusiasmo",
+    "Nuevo",
+    "Anticipación"
+  ],
+  "Influencer": [
+    "red social",
+    "Celebridad",
+    "famoso",
+    "Publicidad",
+    "Influencia"
+  ],
+  "Instagram": [
+    "red social",
+    "Fotos",
+    "Videos",
+    "Facebook"
+  ],
+  "Spam": [
+    "Email",
+    "Correo no deseado",
+    "Papelera"
+  ],
+  "Iniciar sesión": [
+    "Iniciar sesión",
+    "Perfil",
+    "Nombre de usuario",
+    "Contraseña"
+  ],
+  "Cerrar sesión": [
+    "Desconectar",
+    "Perfil",
+    "Iniciar sesión"
+  ],
+  "Software malicioso": [
+    "Virus",
+    "Troyanos",
+    "peligroso"
+  ],
+  "Mencionar": [
+    "Mencionar",
+    "Nombre de usuario",
+    "red social",
+    "@"
+  ],
+  "Nerd": [
+    "inteligente",
+    "Computadora",
+    "Internet",
+    "Lentes"
+  ],
+  "Netflix": [
+    "Transmisión",
+    "Películas",
+    "Serie",
+    "en línea",
+    "Mira"
+  ],
+  "Boletin informativo": [
+    "Email",
+    "Noticias",
+    "Publicidad",
+    "Información"
+  ],
+  "Contraseña": [
+    "secreto",
+    "Privado",
+    "CÓDIGO PIN",
+    "Registrarse",
+    "Iniciar sesión"
+  ],
+  "PayPal": [
+    "Dinero",
+    "pagar",
+    "Cuenta",
+    "Transferir"
+  ],
+  "Pinterest": [
+    "Red social",
+    "Fotos",
+    "Citas",
+    "Recetas",
+    "compartir"
+  ],
+  "Reddit": [
+    "Red social",
+    "anónimo",
+    "Portada",
+    "Publicaciones",
+    "Votar a favor"
+  ],
+  "Señal": [
+    "Mensajero",
+    "Noticias",
+    "Charla",
+    "Edward Snowden"
+  ],
+  "Intercambio único": [
+    "Fechado",
+    "coquetear",
+    "Compañero",
+    "Relación",
+    "Una noche de pie"
+  ],
+  "Snapchat": [
+    "Instagram",
+    "Fotos",
+    "Videos",
+    "red social"
+  ],
+  "Correo no deseado": [
+    "Publicidad",
+    "Boletin informativo",
+    "Ascendido a",
+    "Email"
+  ],
+  "Spotify": [
+    "Música",
+    "Radio",
+    "Escucha",
+    "De marea",
+    "Transmisión"
+  ],
+  "Surf": [
+    "Internet",
+    "Páginas web",
+    "Google",
+    "URL"
+  ],
+  "Tidal": [
+    "Música",
+    "Radio",
+    "Escucha",
+    "Spotify",
+    "Transmisión"
+  ],
+  "Tinder": [
+    "Golpe fuerte",
+    "Individual",
+    "Fechado",
+    "Aplicación",
+    "Una noche de pie"
+  ],
+  "Pío": [
+    "Gorjeo",
+    "Contribución",
+    "corto",
+    "Mensaje"
+  ],
+  "Twitch": [
+    "Juego de azar",
+    "Juegos de computadora",
+    "Cocer al vapor",
+    "Cámara"
+  ],
+  "Twitter": [
+    "red social",
+    "Facebook",
+    "corto"
+  ],
+  "Actualizar": [
+    "Software",
+    "Programa",
+    "Actualizar",
+    "Nuevo"
+  ],
+  "viral": [
+    "red social",
+    "famoso",
+    "Clics",
+    "Youtube"
+  ],
+  "Virus": [
+    "Computadora",
+    "Troyanos",
+    "peligroso"
+  ],
+  "VPN": [
+    "Conexión",
+    "anónimo",
+    "Red",
+    "Dirección IP"
+  ],
+  "Cámara web": [
+    "Vídeo",
+    "Transmisión",
+    "Cámara",
+    "Skype"
+  ],
+  "Whatsapp": [
+    "Mensajero",
+    "Noticias",
+    "Charla",
+    "Facebook"
+  ],
+  "Wikipedia": [
+    "Conocimiento",
+    "Investigación",
+    "Google",
+    "Definiciones"
+  ],
+  "Youtube": [
+    "Videos",
+    "Google",
+    "subir",
+    "Vamos a jugar"
+  ]
+
+}
