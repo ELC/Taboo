@@ -15,7 +15,9 @@ cache:
 
 install: npm install
 
-script: npm run build
+script: 
+  - npm run build
+  - bash .publish.sh $TRAVIS_TOKEN
 
 deploy:
   provider: pages
