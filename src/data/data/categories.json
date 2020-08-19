@@ -13,6 +13,9 @@
       },
       "biblical": {
         "text": "Bíblico"
+      },
+      "mixed": {
+        "text": "Mixto"
       }
     }
   }
